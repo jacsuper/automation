@@ -1,6 +1,9 @@
 use framework "Foundation"
 use framework "AppKit"
 
+set myemail to "FILLIN@FILLIN.COM"
+set myname to "SET YOURNAME"
+
 set starter to {"*"}
 set starter2 to {"**"}
 set theaction to ""
@@ -66,7 +69,7 @@ repeat with z from 1 to number of items in newPara
 			set theContent to theaction
 			
 			set newMessage to make new outgoing message with properties {subject:theaction, content:theContent}
-			make new recipient with properties {email address:{address:"jacsteyn@fb.com", name:"Jac Steyn"}} at end of to recipients of newMessage
+			make new recipient with properties {email address:{address:myemail, name:myname}} at end of to recipients of newMessage
 			
 			#open newMessage
 			send newMessage

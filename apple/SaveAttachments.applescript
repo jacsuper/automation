@@ -1,5 +1,5 @@
 #set saveToFolder to POSIX path of (choose folder with prompt "Choose the destination folder")
-set saveToFolder to "/Users/jacsteyn/Dropbox (Facebook)/Attachments/"
+set saveToFolder to "/Users/FOLDERTOSAVETO"
 set ctr to 0
 tell application "Microsoft Outlook"
 	set selectedMessages to current messages

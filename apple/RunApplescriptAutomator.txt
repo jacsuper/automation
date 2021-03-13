@@ -4,7 +4,7 @@ Add Run AppleScript
 
 on run {input, parameters}
 	
-	run script file "Macintosh HD:Users:jacsteyn:Library:Scripts:NewNoteOutlook2.scpt"
+	run script file "Macintosh HD:Users:YOURUSERNAMEGOESHERE:Library:Scripts:SCRIPTNAME.scpt"
 	
 	return input
 end run
