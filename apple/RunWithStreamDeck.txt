@@ -1,0 +1,2 @@
+Add https://github.com/mushoo/streamdeck-applescript into streamdeck
+Bind button to script

@@ -1,0 +1,12 @@
+New App in Automator
+
+Add Run AppleScript
+
+on run {input, parameters}
+	
+	run script file "Macintosh HD:Users:jacsteyn:Library:Scripts:NewNoteOutlook2.scpt"
+	
+	return input
+end run
+
+Compile, add to dock
