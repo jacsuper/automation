@@ -1,7 +1,8 @@
 # automation
 Useful  Automation Scripts
 
-Often gathered from all over the internet (for example thank you Mr Excel!), self written, customized, tweaked etc. In other words, licenses and copied from stackoverflows or sites author names etc. could have been lost: apologies.
+Often gathered from all over the internet (for example thank you Mr Excel!), self written, customized, tweaked etc. In other words, licenses and copied from stackoverflows or sites author names etc. could have been lost: apologies. Let me know where attribution needed.
+
 
 /vba - Scripts mostly to automate Microsoft Windows version of Outlook
 
@@ -12,7 +13,7 @@ Often gathered from all over the internet (for example thank you Mr Excel!), sel
 
 ArchiveMails.applescript - Move Outlook selected emails to Archive
 
-JoinNextMeeting.applescript - Find Outlook Calendar next meeting (or current started 5 mins or less ago), open video conference URL in Chrome
+JoinNextMeeting.applescript - Find Outlook Calendar next meeting (or current started 5 mins or less ago), open video conference URL in Chrome.  Uses getNextMeeting gist from https://gist.github.com/ivoleitao/f3937582744c412c1042c8d4617ea0d8 Author: Ivo Leitão
 
 NewNoteOutlook.applescript - Create new text empty email, addressed to self, tab into Subject field
 
