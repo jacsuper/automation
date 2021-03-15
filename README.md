@@ -13,7 +13,7 @@ Often gathered from all over the internet (for example thank you Mr Excel!), sel
 
 ArchiveMails.applescript - Move Outlook selected emails to Archive
 
-JoinNextMeeting.applescript - Find Outlook Calendar next meeting (or current started 5 mins or less ago), open video conference URL in Chrome.  Uses getNextMeeting gist from https://gist.github.com/ivoleitao/f3937582744c412c1042c8d4617ea0d8 Author: Ivo Leitão
+JoinNextMeeting.applescript - Find Outlook Calendar next meeting (or current started 5 mins or less ago), open video conference URL in Chrome.  Uses getNextMeeting gist from https://gist.github.com/ivoleitao/f3937582744c412c1042c8d4617ea0d8 Author: Ivo Leitão - Currently has a bug where not all meetings are returned.
 
 NewNoteOutlook.applescript - Create new text empty email, addressed to self, tab into Subject field
 
