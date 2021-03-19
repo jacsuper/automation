@@ -1,4 +1,4 @@
-set clickUrl to "https://www.internalfb.com/?tab=today"
+set clickUrl to "URL WHERE JOIN NEXT MEETING HREF"
 
 set monitorPosition to {-1920, 0}
 
