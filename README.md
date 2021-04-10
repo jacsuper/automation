@@ -25,6 +25,8 @@ SaveAttachments.applescript - Save Attachments from selected emails in Outlook t
 
 ZipFilesWithPassword.applescript - Zip and Encrypt selected files from finder into a zip with prompted password
 
+OpenWorkplaceChatUnread.applescript - Open Workplace, open Chat, then click Unread (uncomment keystroke to open/focus search)
+
 RunApplescriptAutomator.txt - How to run an AppleScript from an Automator App - to be able to have an applescript in Dock and shortcut key
 
 RunWithStreamDeck.txt - Link to working Streamdeck AppleScript integration - to bind scripts to StreamDeck keys
